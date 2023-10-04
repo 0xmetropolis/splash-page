@@ -47,7 +47,7 @@ export default function SiteHeader() {
           fill="#989CAE"
         />
       </svg>
-      <p className="text-[#757C8D]">building tools and media for crypto</p>
+      <p className="text-[#757C8D] tracking-[-0.32px]">building tools and media for crypto</p>
     </div>
   );
 }

@@ -26,6 +26,10 @@ main {
   flex: 1;
 }
 
+p {
+  @apply tracking-[-0.32px];
+}
+
 .site-header {
   @apply h-[163px] flex flex-col md:flex-row justify-center md:justify-start md:items-center p-8 md:p-16 gap-y-4 md:gap-y-0 md:gap-x-7 border-b border-[#2A2C32];
   background: linear-gradient(180deg, #25262c 0%, #23242a 100%);
